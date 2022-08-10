@@ -1,16 +1,18 @@
-### Hi there 👋
+## Github Status
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGQF&count_private=true&show_icons=true&layout=compact" alt="MrGQF" height="160px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MrGQF&show_icons=true" alt="MrGQF"  height="160px" />
+</div>
 
-<!--
-**MrGQF/MrGQF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=MrGQF&theme=github-light" width="750"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+<div align="center">
+    <a href="https://github.com/MrGQF/glink">
+		<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=MrGQF&repo=glink&theme=buefy"/>
+    </a>
+</div>
+
