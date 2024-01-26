@@ -6,8 +6,8 @@
 
 ## Repositories
 <div align="center">
-    <a href="https://github.com/MrGQF/glink">
-	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=MrGQF&repo=glink&theme=buefy"/>
+    <a href="https://github.com/MrGQF/GLinkV2">
+	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=MrGQF&repo=GLinkV2&theme=buefy"/>
     </a>
 </div>
 
